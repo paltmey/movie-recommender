@@ -1,0 +1,6 @@
+imdbpy
+numpy
+pymongo
+tensorflow
+tqdm
+wandb
